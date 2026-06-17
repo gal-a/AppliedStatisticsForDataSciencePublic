@@ -1,4 +1,4 @@
-# AppliedStatisticsForDataSciencePublic
+# AppliedStatisticsForDataScience
 Python notebooks for my book: Applied Statistics For Data Science
 
 by Gal Arav M.Sc. © 2026  
